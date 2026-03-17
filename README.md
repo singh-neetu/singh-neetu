@@ -1,7 +1,7 @@
 # Hi, I'm Neetu Singh 👋
 
 ### Senior Azure Cloud & DevOps Engineer
-**London, UK
+London, UK
 
 ---
 
