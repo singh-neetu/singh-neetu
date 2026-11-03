@@ -42,10 +42,10 @@
 
 ## 🏅 Certifications
 
-| Microsoft Azure | AWS | GitHub |
+| Microsoft Azure | AWS | GitHub | Google
 |---|---|---|
-| AZ-400 – DevOps Solutions | AWS Cloud Practitioner (CLF-C02) | GitHub Foundations |
-| AZ-500 – Security Engineer | AWS Generative AI Leader | GitHub Copilot (GH-300) |
+| AZ-400 – DevOps Solutions | AWS Cloud Practitioner (CLF-C02) | GitHub Foundations | Generative AI Leader 
+| AZ-500 – Security Engineer                                   | GitHub Copilot (GH-300) |
 | AZ-700 – Network Engineer | | |
 | AZ-104 – Administrator | | |
 | AZ-204 – Developer | | |
