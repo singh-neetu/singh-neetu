@@ -42,16 +42,17 @@
 
 ## 🏅 Certifications
 
-| Microsoft Azure | AWS | GitHub | Google
-|---|---|---|
-| AZ-400 – DevOps Solutions | AWS Cloud Practitioner (CLF-C02) | GitHub Foundations | Generative AI Leader 
-| AZ-500 – Security Engineer                                   | GitHub Copilot (GH-300) |
-| AZ-700 – Network Engineer | | |
-| AZ-104 – Administrator | | |
-| AZ-204 – Developer | | |
-| DP-300 – Database Admin | | |
-| AZ-900 · AI-900 · DP-900 | | |
-
+| Microsoft Azure | AWS | GitHub | Google |
+|:---|:---|:---|:---|
+| AZ-400 – DevOps Engineer Expert | AWS Cloud Practitioner (CLF-C02) | GitHub Foundations | Generative AI Leader |
+| AZ-500 – Security Engineer | | GitHub Copilot (GH-300) | |
+| AZ-700 – Network Engineer | | | |
+| AZ-104 – Administrator | | | |
+| AZ-204 – Developer | | | |
+| DP-300 – Database Administrator | | | |
+| AZ-900 – Azure Fundamentals | | | |
+| AI-900 – Azure AI Fundamentals | | | |
+| DP-900 – Azure Data Fundamentals | | | |
 ---
 
 ## 📁 Featured Project
