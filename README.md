@@ -75,22 +75,6 @@
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=singh-neetu&show_icons=true&hide_border=true&theme=transparent"
-    alt="Neetu's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-neetu&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-singh--neetu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singh-neetu)
@@ -99,4 +83,3 @@
 
 ---
 
-*🌍 Based in London · Relocating to Stockholm · Open to Azure Cloud & DevOps roles*
