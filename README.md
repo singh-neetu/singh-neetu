@@ -80,6 +80,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-singh--neetu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singh-neetu)
 [![Email](https://img.shields.io/badge/Email-neetusingh1009@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neetusingh1009@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-singh--neetu-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singh-neetu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-singh--neetu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singh-neetu)
+[![Credly](https://img.shields.io/badge/Credly-Verified_Badges-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/neetu-singh.38735e14)
 
 ---
 
